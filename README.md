@@ -18,14 +18,6 @@
 ---
 
 
----
-
-### 🌟 Top Projects
-- 🏥 Telemedicine Appointment System  
-- 📚 Django Library Management API  
-- ✨ React UI Components  
-
----
 
 ### 🔗 Connect With Me
 <p align="left">
