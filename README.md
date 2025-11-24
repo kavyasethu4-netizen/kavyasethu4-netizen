@@ -4,10 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React, Django, Python**
-- 💼 Working on **Telemedicine Appointment System**
-- 💡 I love exploring **Full-Stack Development**
-- 📫 Reach me at **kavyasethu4@gmail.com**
+-  I’m currently learning **React, Django, Python**
+-  I love exploring **Full-Stack Development**
+-  Reach me at **kavyasethu4@gmail.com**
 
 ---
 
