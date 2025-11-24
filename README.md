@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 -  I’m currently learning **React, Django, Python**
 -  I love exploring **Full-Stack Development**
 -  Reach me at **kavyasethu4@gmail.com**
