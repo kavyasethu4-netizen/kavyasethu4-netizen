@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kavya Sethu</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**kavyasethu4-netizen/kavyasethu4-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **React, Django, Python**
+- 💼 Working on **Telemedicine Appointment System**
+- 💡 I love exploring **Full-Stack Development**
+- 📫 Reach me at **yourmail@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyasethu4-netizen&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasethu4-netizen&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 🌟 Top Projects
+- 🏥 Telemedicine Appointment System  
+- 📚 Django Library Management API  
+- ✨ React UI Components  
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://github.com/kavyasethu4-netizen" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and give a star!**
